@@ -1,5 +1,11 @@
-# Naam: Haroun Nabi<br>
-# Leeftijd: 19<br>
-# Locatie: Groningen, Nederland<br>
-# School: Bit-Academy
-# Rol: Back-end Developer
+# 👨‍💻 Haroun Nabi
+
+```json
+{
+  "naam": "Haroun Nabi",
+  "leeftijd": 19,
+  "locatie": "Groningen, Nederland",
+  "school": "Bit-Academy",
+  "rol": "Back-end Developer"
+}
+```
